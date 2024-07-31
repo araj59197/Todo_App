@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "text": "Learn React",
+        "completed": false,
+        "description": "Start with the official documentation",
+        "timestamp": "2024-07-29 10:00:00"
+    },
+    {
+        "id": 2,
+        "text": "Build a Todo App",
+        "completed": false,
+        "description": "Implement the core features",
+        "timestamp": "2024-07-29 12:00:00"
+    },
+    {
+        "id": 3,
+        "text": "Create a meeting",
+        "description": "The meeting for the project discussion",
+        "completed": false,
+        "timestamp": "2024-07-29 16:22:00"
+    }
+]
