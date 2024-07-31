@@ -40,17 +40,17 @@
     
 # Prerequisites
     Node.js and npm installed on your machine.
-    Installation
-    Clone the Repository:
+# Installation
+# Clone the Repository:
     git clone https://github.com/your-username/todo-list-app.git
     cd todo-list-app
     Install Dependencies:
     npm install
-    Run the Application:
+# Run the Application:
    npm start
    The application will run on http://localhost:3000 by default.
 
-Building for Production
+# Building for Production
 To build the application for production, use the following command:
 npm run build
 This will create a build directory with the optimized production build of the application.
@@ -58,7 +58,7 @@ This will create a build directory with the optimized production build of the ap
 # Contributing
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
 
-License
+# License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 # Acknowledgements
